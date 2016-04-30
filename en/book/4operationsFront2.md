@@ -15,15 +15,15 @@ Currently in the front, we have following menu items:
 
 Some of them will go soon away, as they are being moved to the [Preferences](3prerences.md)
 
-![](../assets/image001.png)
-
-
-
-
 
 ![](../assets/frontAdmin001.png)
 
+### Language options
+ 
 ![](../assets/frontAdmin002.png)
+
+### Create user field 
+
 
 ![](../assets/frontAdmin003a.png)
 
@@ -47,11 +47,23 @@ Some of them will go soon away, as they are being moved to the [Preferences](3pr
 
 ![](../assets/frontAdmin003k.png)
 
+### List user field 
+
+* 
 ![](../assets/frontAdmin004.png)
+
+### Define colors 
+
 ![](../assets/frontAdmin005.png)
+
+### Delete pedigree's 
 
 ![](../assets/frontAdmin006.png)
 
+### Database tools 
+
 ![](../assets/frontAdmin007.png)
+
+### Credits 
 
 ![](../assets/frontAdmin008.png)
