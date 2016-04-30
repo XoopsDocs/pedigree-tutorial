@@ -4,7 +4,7 @@
 * [Administration Menu](book/2administration.md)
 * [Preferences](book/3preferences.md)
 * [Operating Instructions](book/4operations.md)
-  * [FrontEnd Instructions](book/4operationsFront)
+  * [FrontEnd Instructions](book/4operationsFront.md)
 * [The User Side](book/5userside.md)
 * [Blocks](book/6blocks.md)
 * [Templates](book/7templates.md)
