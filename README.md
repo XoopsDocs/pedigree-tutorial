@@ -34,6 +34,7 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Administration Menu](en/book/2administration.md)
 * [Preferences](en/book/3preferences.md)
 * [Operating Instructions](en/book/4operations.md)
+  * [Front End Operations](en/book/4operationsFront2.md)
 * [The User Side](en/book/5userside.md)
 * [Blocks](en/book/6blocks.md)
 * [Templates](en/book/7templates.md)
